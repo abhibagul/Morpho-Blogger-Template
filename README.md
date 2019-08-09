@@ -1,6 +1,9 @@
 # Morpho-Blogger-Template
 Morpho is the most beautifully crafted blogger template packed with the various widgets and infinite colors. It also has new in class infinite mega menu. The theme comes with advertisement ready layout.
 
+
+<h3>Customized blogger Template @ $25 : <a href="https://www.fiverr.com/s2/ceb7759ae8" target="_blank">https://www.fiverr.com/s2/ceb7759ae8</a></h3>
+
 <h2>Documentation</h2>
 <div class="entry-content">
 
